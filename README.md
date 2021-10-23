@@ -1,9 +1,10 @@
 # Aluizio Cidral Júnior
-Joinville – Santa Catarina – Brazil
-E-mail: cidraljunior@hotmail.com
-Linkedin: https://www.linkedin.com/in/cidraljunior/
-Github: https://github.com/cidraljunior
-DataCamp: https://www.datacamp.com/profile/cidraljunior
+
+Joinville – Santa Catarina – Brazil <br />
+E-mail: cidraljunior@hotmail.com <br />
+Linkedin: https://www.linkedin.com/in/cidraljunior/ <br />
+Github: https://github.com/cidraljunior <br />
+DataCamp: https://www.datacamp.com/profile/cidraljunior <br />
 
 ## Personal Statement
 Focused on problem solving, I have a strong analytical profile, always looking for new challenges and learning, delivering data solutions according to the client's needs and collaborating for the best performance of the team. Start in the data area in 2019 and working with data engineering from early 2021.
