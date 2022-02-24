@@ -12,7 +12,7 @@ Focused on problem solving, I have a strong analytical profile, always looking f
 Start in the data area in 2019 and working with data engineering from early 2021.
 
 ## Work Experience
-#### Data Engineer Junior at Indicium - Aug 2021 - Present • 3 mos
+#### Data Engineer Junior at Indicium - Aug 2021 - Feb 2022 • 7 mos
 *Remote - Brazil* <br/>
 - Improving the internal process by focusing on reusable modules;
 - Reviewing and collaborating with team code;
